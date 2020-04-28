@@ -1,0 +1,42 @@
+{
+  "group": "the",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "the:falsekergem"
+    },
+    "1": {
+      "item": "the:falsekergem"
+    },
+    "2": {
+      "item": "the:falsekergem"
+    },
+    "3": {
+      "item": "the:falsekergem"
+    },
+    "4": {
+      "item": "the:falsekergem"
+    },
+    "5": {
+      "item": "the:falsekergem"
+    },
+    "6": {
+      "item": "the:falsekergem"
+    },
+    "7": {
+      "item": "the:falsekergem"
+    },
+    "8": {
+      "item": "the:falsekergem"
+    }
+  },
+  "result": {
+    "item": "the:falsekeroreblock",
+    "count": 1
+  }
+}

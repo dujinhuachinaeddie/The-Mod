@@ -1,0 +1,30 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "theshovel",
+    "customModelName": "Normal",
+    "name": "Theshovel",
+    "creativeTab": {
+      "value": "CUSTOM:Thetab"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 1,
+    "efficiency": 32.0,
+    "attackSpeed": 1.0,
+    "enchantability": 2,
+    "damageVsEntity": 5.0,
+    "usageCount": 100,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Thething"
+      },
+      {
+        "value": "CUSTOM:Thenugget"
+      }
+    ]
+  }
+}

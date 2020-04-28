@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "the:blocks/bluemetal_ore_block",
+    "particle": "the:blocks/bluemetal_ore_block"
+  }
+}

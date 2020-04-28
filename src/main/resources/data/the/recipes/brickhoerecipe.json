@@ -1,0 +1,27 @@
+{
+  "group": "the",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:brick"
+    },
+    "1": {
+      "item": "minecraft:brick"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "the:brickhoe",
+    "count": 1
+  }
+}

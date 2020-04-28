@@ -1,0 +1,27 @@
+{
+  "group": "the",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "the:falsekergem"
+    },
+    "1": {
+      "item": "the:falsekergem"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "the:falsekerhoe",
+    "count": 1
+  }
+}

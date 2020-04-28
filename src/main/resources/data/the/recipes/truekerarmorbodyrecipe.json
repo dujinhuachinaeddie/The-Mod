@@ -1,0 +1,39 @@
+{
+  "group": "the",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "the:truekeringot"
+    },
+    "2": {
+      "item": "the:truekeringot"
+    },
+    "3": {
+      "item": "the:truekeringot"
+    },
+    "4": {
+      "item": "the:truekeringot"
+    },
+    "5": {
+      "item": "the:truekeringot"
+    },
+    "6": {
+      "item": "the:truekeringot"
+    },
+    "7": {
+      "item": "the:truekeringot"
+    },
+    "8": {
+      "item": "the:truekeringot"
+    }
+  },
+  "result": {
+    "item": "the:truekerarmorbody",
+    "count": 1
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "thepickaxe",
+    "customModelName": "Normal",
+    "name": "Thepickaxe",
+    "creativeTab": {
+      "value": "CUSTOM:Thetab"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 40,
+    "efficiency": 32.0,
+    "attackSpeed": 1.0,
+    "enchantability": 23,
+    "damageVsEntity": 5.0,
+    "usageCount": 100,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Thething"
+      },
+      {
+        "value": "CUSTOM:Thenugget"
+      }
+    ]
+  }
+}

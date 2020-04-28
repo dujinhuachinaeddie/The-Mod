@@ -1,0 +1,22 @@
+{
+  "_fv": 6,
+  "_type": "fluid",
+  "definition": {
+    "name": "Thefluid",
+    "textureStill": "thestrangemudtop",
+    "textureFlowing": "thestrangemudtop",
+    "luminosity": 0,
+    "density": 1000,
+    "viscosity": 1000,
+    "isGas": false,
+    "type": "WATER",
+    "generateBucket": false,
+    "creativeTab": {
+      "value": "CUSTOM:Thetab"
+    },
+    "spawnWorldTypes": [
+      "Surface",
+      "CUSTOM:TheNewWorld"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "the",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "the:bluemetaloreblock"
+    }
+  ],
+  "result": {
+    "item": "the:bluemetalingot",
+    "count": 9
+  }
+}

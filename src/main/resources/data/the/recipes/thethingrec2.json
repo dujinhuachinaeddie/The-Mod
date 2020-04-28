@@ -1,0 +1,42 @@
+{
+  "group": "the",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "the:thenugget"
+    },
+    "1": {
+      "item": "the:thenugget"
+    },
+    "2": {
+      "item": "the:thenugget"
+    },
+    "3": {
+      "item": "the:thenugget"
+    },
+    "4": {
+      "item": "the:thenugget"
+    },
+    "5": {
+      "item": "the:thenugget"
+    },
+    "6": {
+      "item": "the:thenugget"
+    },
+    "7": {
+      "item": "the:thenugget"
+    },
+    "8": {
+      "item": "the:thenugget"
+    }
+  },
+  "result": {
+    "item": "the:thething",
+    "count": 1
+  }
+}

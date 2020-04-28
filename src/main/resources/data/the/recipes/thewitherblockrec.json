@@ -1,0 +1,36 @@
+{
+  "group": "the",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:wither_skeleton_skull"
+    },
+    "1": {
+      "item": "minecraft:wither_skeleton_skull"
+    },
+    "2": {
+      "item": "minecraft:wither_skeleton_skull"
+    },
+    "3": {
+      "item": "minecraft:soul_sand"
+    },
+    "4": {
+      "item": "minecraft:soul_sand"
+    },
+    "5": {
+      "item": "minecraft:soul_sand"
+    },
+    "7": {
+      "item": "minecraft:soul_sand"
+    }
+  },
+  "result": {
+    "item": "the:thewitherblock",
+    "count": 1
+  }
+}

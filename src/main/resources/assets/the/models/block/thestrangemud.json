@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "the:blocks/theblock",
+    "up": "the:blocks/thestrangemudtop",
+    "north": "the:blocks/thestrangemudleft",
+    "east": "the:blocks/thestrangemudleft",
+    "south": "the:blocks/thestrangemudleft",
+    "west": "the:blocks/thestrangemudleft",
+    "particle": "the:blocks/theblock"
+  }
+}

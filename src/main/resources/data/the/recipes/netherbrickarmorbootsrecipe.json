@@ -1,0 +1,26 @@
+{
+  "group": "the",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:nether_brick"
+    },
+    "2": {
+      "item": "minecraft:nether_brick"
+    },
+    "3": {
+      "item": "minecraft:nether_brick"
+    },
+    "5": {
+      "item": "minecraft:nether_brick"
+    }
+  },
+  "result": {
+    "item": "the:netherbrickarmorboots",
+    "count": 1
+  }
+}

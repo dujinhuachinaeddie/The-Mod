@@ -1,0 +1,13 @@
+{
+  "group": "the",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "the:falsekeroreblock"
+    }
+  ],
+  "result": {
+    "item": "the:falsekergem",
+    "count": 9
+  }
+}

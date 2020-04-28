@@ -1,0 +1,39 @@
+{
+  "group": "the",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "the:bluemetalingot"
+    },
+    "2": {
+      "item": "the:bluemetalingot"
+    },
+    "3": {
+      "item": "the:bluemetalingot"
+    },
+    "4": {
+      "item": "the:bluemetalingot"
+    },
+    "5": {
+      "item": "the:bluemetalingot"
+    },
+    "6": {
+      "item": "the:bluemetalingot"
+    },
+    "7": {
+      "item": "the:bluemetalingot"
+    },
+    "8": {
+      "item": "the:bluemetalingot"
+    }
+  },
+  "result": {
+    "item": "the:bluemetalarmorbody",
+    "count": 1
+  }
+}

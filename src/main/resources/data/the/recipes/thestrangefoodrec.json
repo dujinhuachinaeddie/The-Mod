@@ -1,0 +1,30 @@
+{
+  "group": "the",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "the:thething"
+    },
+    "3": {
+      "item": "minecraft:potato"
+    },
+    "4": {
+      "item": "minecraft:slime_ball"
+    },
+    "5": {
+      "item": "minecraft:melon_slice"
+    },
+    "7": {
+      "item": "minecraft:apple"
+    }
+  },
+  "result": {
+    "item": "the:thestrangefood",
+    "count": 1
+  }
+}

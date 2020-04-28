@@ -1,0 +1,54 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "thearmor_head",
+    "enableBody": true,
+    "textureBody": "thearmor_body",
+    "enableLeggings": true,
+    "textureLeggings": "thearmor_leggings",
+    "enableBoots": true,
+    "textureBoots": "thearmor_boots",
+    "creativeTab": {
+      "value": "CUSTOM:Thetab"
+    },
+    "armorTextureFile": "thearmor",
+    "helmetName": "The Helmet",
+    "bodyName": "The Body",
+    "leggingsName": "The Leggings",
+    "bootsName": "The Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 100,
+    "damageValueHelmet": 20,
+    "damageValueBody": 30,
+    "damageValueLeggings": 20,
+    "damageValueBoots": 10,
+    "enchantability": 40,
+    "toughness": 3.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Thething"
+      },
+      {
+        "value": "CUSTOM:Thenugget"
+      }
+    ]
+  }
+}

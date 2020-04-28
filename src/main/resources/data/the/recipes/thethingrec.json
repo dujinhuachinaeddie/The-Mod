@@ -1,0 +1,13 @@
+{
+  "group": "the",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "the:theblock"
+    }
+  ],
+  "result": {
+    "item": "the:thething",
+    "count": 9
+  }
+}

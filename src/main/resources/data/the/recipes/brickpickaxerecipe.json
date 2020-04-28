@@ -1,0 +1,30 @@
+{
+  "group": "the",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:brick"
+    },
+    "1": {
+      "item": "minecraft:brick"
+    },
+    "2": {
+      "item": "minecraft:brick"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "the:brickpickaxe",
+    "count": 1
+  }
+}

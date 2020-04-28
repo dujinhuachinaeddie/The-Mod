@@ -1,0 +1,24 @@
+{
+  "group": "the",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "the:thething"
+    },
+    "1": {
+      "item": "the:thething"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "the:thesword",
+    "count": 1
+  }
+}

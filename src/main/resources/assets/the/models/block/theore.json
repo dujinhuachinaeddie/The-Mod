@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "the:blocks/theore",
+    "particle": "the:blocks/theore"
+  }
+}

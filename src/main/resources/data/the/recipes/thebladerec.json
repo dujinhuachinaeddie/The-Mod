@@ -1,0 +1,24 @@
+{
+  "group": "the",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "the:bladerazor"
+    },
+    "1": {
+      "item": "the:bladehandle"
+    },
+    "2": {
+      "item": "the:thebladecore"
+    }
+  },
+  "result": {
+    "item": "the:theblade",
+    "count": 1
+  }
+}

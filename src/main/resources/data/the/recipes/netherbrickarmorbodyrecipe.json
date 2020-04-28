@@ -1,0 +1,39 @@
+{
+  "group": "the",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:nether_brick"
+    },
+    "2": {
+      "item": "minecraft:nether_brick"
+    },
+    "3": {
+      "item": "minecraft:nether_brick"
+    },
+    "4": {
+      "item": "minecraft:nether_brick"
+    },
+    "5": {
+      "item": "minecraft:nether_brick"
+    },
+    "6": {
+      "item": "minecraft:nether_brick"
+    },
+    "7": {
+      "item": "minecraft:nether_brick"
+    },
+    "8": {
+      "item": "minecraft:nether_brick"
+    }
+  },
+  "result": {
+    "item": "the:netherbrickarmorbody",
+    "count": 1
+  }
+}

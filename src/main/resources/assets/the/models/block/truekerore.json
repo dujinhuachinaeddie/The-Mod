@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "the:blocks/trueker_ore",
+    "particle": "the:blocks/trueker_ore"
+  }
+}

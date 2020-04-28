@@ -1,0 +1,42 @@
+{
+  "group": "the",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "the:thething"
+    },
+    "1": {
+      "item": "the:thething"
+    },
+    "2": {
+      "item": "the:thething"
+    },
+    "3": {
+      "item": "the:thething"
+    },
+    "4": {
+      "item": "the:thething"
+    },
+    "5": {
+      "item": "the:thething"
+    },
+    "6": {
+      "item": "the:thething"
+    },
+    "7": {
+      "item": "the:thething"
+    },
+    "8": {
+      "item": "the:thething"
+    }
+  },
+  "result": {
+    "item": "the:theblock",
+    "count": 1
+  }
+}

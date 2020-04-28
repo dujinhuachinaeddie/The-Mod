@@ -1,0 +1,29 @@
+{
+  "group": "the",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "the:thething"
+    },
+    "1": {
+      "item": "the:thething"
+    },
+    "2": {
+      "item": "the:thething"
+    },
+    "3": {
+      "item": "the:thething"
+    },
+    "5": {
+      "item": "the:thething"
+    }
+  },
+  "result": {
+    "item": "the:thearmorhelmet",
+    "count": 1
+  }
+}

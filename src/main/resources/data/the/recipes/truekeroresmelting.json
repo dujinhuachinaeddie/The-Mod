@@ -1,0 +1,11 @@
+{
+  "group": "the",
+  "type": "minecraft:smelting",
+  "experience": 0,
+  "ingredient": {
+    "item": "the:truekerore"
+  },
+  "result": {
+    "item": "the:truekeringot"
+  }
+}

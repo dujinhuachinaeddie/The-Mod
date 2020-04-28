@@ -1,0 +1,42 @@
+{
+  "group": "the",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:nether_star"
+    },
+    "1": {
+      "item": "the:thefuel"
+    },
+    "2": {
+      "item": "minecraft:dragon_egg"
+    },
+    "3": {
+      "item": "the:thesword"
+    },
+    "4": {
+      "item": "minecraft:diamond"
+    },
+    "5": {
+      "item": "the:theknife"
+    },
+    "6": {
+      "item": "minecraft:emerald"
+    },
+    "7": {
+      "item": "the:thething"
+    },
+    "8": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "item": "the:thebladecore",
+    "count": 1
+  }
+}

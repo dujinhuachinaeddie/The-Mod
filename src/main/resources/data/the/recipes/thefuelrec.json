@@ -1,0 +1,20 @@
+{
+  "group": "the",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:coal"
+    },
+    "1": {
+      "item": "the:thething"
+    }
+  },
+  "result": {
+    "item": "the:thefuel",
+    "count": 2
+  }
+}

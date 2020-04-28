@@ -1,0 +1,44 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Thething"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.POTATO"
+      },
+      {
+        "value": "Items.SLIME_BALL"
+      },
+      {
+        "value": "Items.MELON"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.APPLE"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Thestrangefood"
+    },
+    "name": "thestrangefoodrec",
+    "namespace": "mod"
+  }
+}
